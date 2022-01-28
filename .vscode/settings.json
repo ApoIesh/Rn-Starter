@@ -1,0 +1,4 @@
+{
+    "debug.javascript.autoExpandGetters": true,
+    "debug.javascript.breakOnConditionalError": true
+}
